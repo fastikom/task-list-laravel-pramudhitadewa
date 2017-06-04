@@ -1,8 +1,5 @@
-<p align="center"><img src="https://.com/assets/img/components/logo-.svg"></p>
-dewangga pramudhita 2014157026
-<p align="center">
-<a href="https://travis-ci.org//framework"><img src="https://travis-ci.org//framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages//framework"><img src="https://poser.pugx.org//framework/d/total.svg" alt="Total Downloads"></a>
+<p align="center"><img src="https://.com/assets/img/components/logo-.svg"></p> Dewangga  pramudhita 2014157026
+<a href="https://travis-ci.org//framework"><img src="https://travis-ci.org//framework.svg" alt="Build Status"></a><a href="https://packagist.org/packages//framework"><img src="https://poser.pugx.org//framework/d/total.svg" alt="Total Downloads
 <a href="https://packagist.org/packages//framework"><img src="https://poser.pugx.org//framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages//framework"><img src="https://poser.pugx.org//framework/license.svg" alt="License"></a>
 </p>
